@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/photutils-benchmarks/commit/8a9ae29a4fb2a49d30ce5a7f727ae4371c73cb7e",
       "git:hexsha": "8a9ae29a4fb2a49d30ce5a7f727ae4371c73cb7e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
