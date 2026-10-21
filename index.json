@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "photutils-benchmarks",
+  "versions": [
+    {
+      "commit": "8a9ae29a4fb2a49d30ce5a7f727ae4371c73cb7e",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:23:33.830787+00:00"
+    }
+  ]
+}
